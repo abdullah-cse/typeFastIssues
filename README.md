@@ -1,2 +1,11 @@
-# typeFastIssues
-Here you can submit Issue, Feature request or anything related to TypeFast app.
+# Welcome to TypeFast Issues
+Here you can 
+- submit new issue,
+- Request new Feature
+- Ask me anything related to TypeFast app.
+
+## Before Submitting new Issue:
+
+- Double check if it is already resolved.
+- If already issued by other, then thums up 👍.
+- If solved then react with ❤️ or 🚀
