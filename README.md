@@ -11,3 +11,10 @@ Here you can
 - Double check if it is already resolved.
 - If already issued by other, then thums up 👍.
 - If solved then react with ❤️ or 🚀
+
+Submit new [Issue](https://github.com/abdullah-cse/typeFastIssues/issues/new)
+
+## ❤️ this app?
+You can show love by
+  - Staring this Repository.
+  - Sharing this app with others.
