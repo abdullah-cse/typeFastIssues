@@ -1,20 +1,21 @@
 # Welcome to TypeFast Issues
 
-Here you can 
-- Submit new issue.
-- Request new Feature.
-- Ask me anything related to TypeFast app.
+Here you can: 
+- Submit a new issue.
+- Request a new feature.
+- Ask me anything related to the [TypeFast](https://typefast.app/) app.
 
 
-## Before Submitting new Issue:
+## Before submitting a new issue:
 
-- Double check if it is already resolved.
-- If already issued by other, then thums up 👍.
-- If solved then react with ❤️ or 🚀
+- Double-check if it is already resolved.
+- If already issued by others, then thumbs up 👍.
+- If solved, then react with ❤️ or 🚀
 
-Submit new [Issue](https://github.com/abdullah-cse/typeFastIssues/issues/new)
+
+👉 Submit new [Issue](https://github.com/abdullah-cse/typeFastIssues/issues/new)
 
 ## ❤️ this app?
 You can show love by
-  - Staring this Repository.
-  - Sharing this app with others.
+  - Staring at this repository.
+  - Sharing [TypeFast](https://typefast.app/) with others.
