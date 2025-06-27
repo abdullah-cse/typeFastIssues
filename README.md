@@ -1,8 +1,10 @@
 # Welcome to TypeFast Issues
+
 Here you can 
-- submit new issue,
-- Request new Feature
+- Submit new issue.
+- Request new Feature.
 - Ask me anything related to TypeFast app.
+
 
 ## Before Submitting new Issue:
 
